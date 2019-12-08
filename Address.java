@@ -1,5 +1,5 @@
 public class Address {
-    
+   /** adding some comments */    
     private int addressId;
     
     private String city;
