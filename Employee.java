@@ -7,6 +7,7 @@ public class Employee {
     private String companyname;
     
     private String name;
+    private String comapny;
     private double salary;
      
 	public int getId() {
