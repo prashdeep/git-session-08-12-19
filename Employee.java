@@ -4,6 +4,8 @@
  */
 public class Employee {
     private int id;
+    private String companyname;
+    
     private String name;
     private double salary;
      
