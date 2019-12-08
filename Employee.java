@@ -1,3 +1,7 @@
+/**
+ * This is a Employee class
+ * @since 1.0
+ */
 public class Employee {
     private int id;
     private String name;
