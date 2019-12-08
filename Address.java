@@ -1,7 +1,9 @@
 public class Address {
     
     private int addressId;
+    
     private String city;
+
     private String zipCode;
     
 	public int getAddressId() {
